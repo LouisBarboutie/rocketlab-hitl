@@ -1,5 +1,7 @@
 # rocketlab-hitl
 
+![User interface preview](preview.png)
+
 # Setup
 
 It is recommended to create a virtual environment for the project with
